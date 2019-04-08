@@ -1,0 +1,30 @@
+Projection
+
+orthogonal / orthonormal
+
+Vector norm(1, 2, frobenius)
+
+eigen value, eigen vector      
+
+orthogonal diagonalization / PCA
+
+Determinant / PCA
+
+trace of A
+
+tensor notation
+
+SVD   
+
+Linear algebra in Linear regression, logistics regression
+
+Optimization
+ﬁrst-order optimization algorithm
+second-order optimization algorithm
+constrained optimization(regression) 
+        
+일반 최적화와 Deeplearing 최적화 차이
+
+ill-condition
+
+neural network optimization
